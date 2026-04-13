@@ -74,7 +74,7 @@ Her-Way is fundamentally built on geospatial and demographic data. Future update
 - **NLP Threat Extraction:** Auto-categorizing text descriptions from user reports.
 
 ## 🤝 Contribution
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
 ## 📜 License
 This project is licensed under the MIT License.
